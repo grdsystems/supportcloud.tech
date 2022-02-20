@@ -2,7 +2,7 @@
 
 $dbServer ="localhost";
 $username = "postgres";
-$password = "wgp253";
+$password = "*****";
 $database = "dvdrental";
 
 //connecting, selecting database
